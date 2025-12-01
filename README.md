@@ -7,7 +7,6 @@
 🔗 Hyderabad, India
 💼 Open to Software Engineer, Backend, SDE-1, Platform Engineering, and Research-oriented roles.
 
----
 
 ## 🚀 **Tech Stack**
 
